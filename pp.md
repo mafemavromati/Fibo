@@ -1,4 +1,4 @@
-FIBO Privacy Policy
+# FIBO Privacy Policy
 
 Maria Azevedo built the Fibo app as a Commercial app. This SERVICE is provided by Maria Azevedo and is intended for use as is.
 
